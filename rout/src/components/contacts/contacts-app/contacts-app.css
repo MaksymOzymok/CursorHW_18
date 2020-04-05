@@ -1,0 +1,17 @@
+.contacts-app {
+    background: white;
+    font-size: calc(1vw + .5rem);
+    width: 22%;
+
+    margin: 0 auto;
+    border: 4px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+@media only screen and (max-width: 770px)  {
+    .contacts-app{
+        width:60%
+    }
+}

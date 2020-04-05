@@ -1,0 +1,17 @@
+.navigation{
+    display: flex;
+    list-style: none;
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto Light";
+}
+.navigation li{
+    margin-left: 40px;
+    color: red;
+    cursor: pointer;
+    transition: .2s;
+}
+.navigation li:hover{
+   transform: scale(1.2);
+}

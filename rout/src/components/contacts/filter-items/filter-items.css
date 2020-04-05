@@ -1,0 +1,7 @@
+.filter-items{
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.6em;
+
+}
