@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CursorHW_18/static/css/main.8f84594c.chunk.css",
+    "main.js": "/CursorHW_18/static/js/main.b83a1db0.chunk.js",
+    "main.js.map": "/CursorHW_18/static/js/main.b83a1db0.chunk.js.map",
+    "runtime-main.js": "/CursorHW_18/static/js/runtime-main.b71ee5d1.js",
+    "runtime-main.js.map": "/CursorHW_18/static/js/runtime-main.b71ee5d1.js.map",
+    "static/js/2.948a96b2.chunk.js": "/CursorHW_18/static/js/2.948a96b2.chunk.js",
+    "static/js/2.948a96b2.chunk.js.map": "/CursorHW_18/static/js/2.948a96b2.chunk.js.map",
+    "index.html": "/CursorHW_18/index.html",
+    "precache-manifest.4e6636cbf55cbe1c76c3c2f7dc88ed87.js": "/CursorHW_18/precache-manifest.4e6636cbf55cbe1c76c3c2f7dc88ed87.js",
+    "service-worker.js": "/CursorHW_18/service-worker.js",
+    "static/css/main.8f84594c.chunk.css.map": "/CursorHW_18/static/css/main.8f84594c.chunk.css.map",
+    "static/js/2.948a96b2.chunk.js.LICENSE.txt": "/CursorHW_18/static/js/2.948a96b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71ee5d1.js",
+    "static/js/2.948a96b2.chunk.js",
+    "static/css/main.8f84594c.chunk.css",
+    "static/js/main.b83a1db0.chunk.js"
+  ]
+}
